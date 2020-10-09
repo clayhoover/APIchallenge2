@@ -1,0 +1,77 @@
+body {
+    background-image: url(/stars.jpg);
+}
+
+.jumbotron{
+    position: relative;
+    height: .2rem;
+    width: auto;
+    background-color: #132743 ;
+    text-align: center;
+    
+}
+
+h1 {
+    font-family: 'Anton', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    color: white;
+    font-weight: bold;
+
+}
+
+p {
+    font-size: large;
+    color: white;
+    margin-bottom: 20px;
+}
+
+#content {
+    position: relative;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    margin-top: 4rem;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+#img {
+    position: relative;
+    
+    
+}
+
+#nasaPic {
+    position: relative;
+    width: 200px;
+    height: auto;
+    margin-left: -50rem;
+    margin-bottom: -5rem;
+}
+
+#search{
+    position: relative;
+    
+    
+}
+
+#buttondiv {
+    position: relative;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.lead {
+    border: ivory solid 2px;
+    border-width: .2rem;
+    border-radius: 1rem;
+    position: relative;
+    background-color: #132743;
+}
+
+.head {
+    padding: auto;
+    margin: auto;
+    position: relative;
+    width: 30%;
+}
